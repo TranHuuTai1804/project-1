@@ -112,7 +112,7 @@ a {
     font-size: 1.8rem;
     line-height: 1.5;
     letter-spacing: 0.01em;
-    color: #687691;
+    color: #687690;
 }
 
 .hero .title {
@@ -128,6 +128,7 @@ a {
     font-weight: 400;
     font-size: 1.8rem;
     line-height: 1.78;
+    color: #5a6473;
 }
 
 .hero-cta {
@@ -608,6 +609,7 @@ a {
 .footer .social {
     display: flex;
     margin-top: 40px;
+    left: 0;
 }
 
 .footer .social-link {
@@ -616,6 +618,7 @@ a {
     justify-content: center;
     width: 28px;
     height: 28px;
+    margin-left: 16px;
 }
 .footer .row-bottom {
     margin-top: 81px;
